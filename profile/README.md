@@ -11,7 +11,9 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-TEMA is a four year long project funded by the European Union flagship research and Innovation programme Horizon Europe, under the call HORIZON-CL4-2022-DATA-01-01 “Methods for exploiting data and knowledge for extremely precise outcomes (analysis, prediction, decision support), reducing complexity and presenting insights in understandable way”.
+Welcome to the Public GitHub Repository of the TEMA project.
+
+TEMA stays for Trusted Extremely Precise Mapping and Prediction For Emergency Management. It is a four year long project funded by the European Union flagship research and Innovation programme Horizon Europe, under the call HORIZON-CL4-2022-DATA-01-01 “Methods for exploiting data and knowledge for extremely precise outcomes (analysis, prediction, decision support), reducing complexity and presenting insights in understandable way” with the grant agreement No. 101093003.
 
 The objectives of TEMA are specifically to:
 
@@ -26,3 +28,5 @@ The goal of TEMA is to deliver a technical solution that is supportive in disast
 - has interactive, intuitive and accessible visualization enabled by advanced augmented reality.
 
 It will allow human operators to understand complex Natural Disaster Management phenomena and easily evaluate alternative response strategies by a smart selection of platform parameters and by novel ways of combining heterogeneous (visual and non-visual) data and/or augmented reality.
+
+Look at the TEMA official [website]([url](https://tema-project.eu)) to know more about the project and the partners.
